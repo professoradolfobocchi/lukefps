@@ -42,7 +42,7 @@ public class PersonagemController : MonoBehaviour
 
     public GameObject canvasVida;
     public Image vidaImg;
-
+    // testando alteracoes via git
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     [System.Obsolete]
     void Awake()
